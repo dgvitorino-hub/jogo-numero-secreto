@@ -5,7 +5,7 @@ Projeto prático do curso de Lógica de programação com JavaScript da Alura.
 > O layout (HTML e CSS) foi fornecido pelo curso. 
 > A lógica do jogo em JavaScript (`app.js`) foi desenvolvida por mim durante as aulas.
 
-🔗 **Jogue aqui:** (http.com)
+🔗 **Jogue aqui:** (https://dgvitorino-hub.github.io/jogo-numero-secreto/)
 
 ## Como funciona
 O computador sorteia um número entre 1 e 100 e o jogador tenta adivinhar. 
